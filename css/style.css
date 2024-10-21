@@ -18,3 +18,12 @@ body {
 .hero-text {
   color: #f9faf8;
 }
+
+ul li a {
+  text-decoration: none;
+  color: #e5e7eb;
+}
+
+.hero-paragraph {
+  color: #e5e7eb;
+}
