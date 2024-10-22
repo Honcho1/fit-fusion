@@ -16,6 +16,10 @@ body {
   flex-direction: column;
 }
 
+.navbar {
+  display: flex;
+}
+
 .logo,
 .hero-text {
   color: #f9faf8;
