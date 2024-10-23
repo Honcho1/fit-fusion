@@ -14,7 +14,7 @@ body {
   background-color: #1f2937;
   display: flex;
   flex-direction: column;
-  padding: 12px 100px 50px;
+  padding: 12px 100px 80px;
 }
 
 .navbar {
@@ -44,7 +44,6 @@ ul {
 .hero-text {
   font-size: 48px;
   font-weight: 900;
-  line-height: 1.5;
 }
 
 ul li a {
@@ -54,6 +53,7 @@ ul li a {
 
 .hero {
   display: flex;
+  gap: 45px;
 }
 
 .hero-paragraph {
@@ -64,6 +64,7 @@ ul li a {
 .header-img {
   border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
+  height: 100%;
 }
 
 .btn {
@@ -74,5 +75,16 @@ ul li a {
   padding: 8px 30px;
   border: none;
   border-radius: 10px;
-  box-shadow: 0 8px 20px rgba(255, 255, 255, 0.2), 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.left,
+.right {
+  height: 250px;
 }
