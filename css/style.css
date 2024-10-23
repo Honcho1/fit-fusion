@@ -14,10 +14,20 @@ body {
   background-color: #1f2937;
   display: flex;
   flex-direction: column;
+  padding: 20px 100px;
 }
 
 .navbar {
   display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
 }
 
 .logo,
