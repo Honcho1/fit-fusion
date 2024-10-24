@@ -107,7 +107,7 @@ ul li a {
 }
 
 .information-heading {
-  color: #1f2937;
+  color: #4d4b4b;
   font-size: 36px;
   font-weight: 900;
   margin-bottom: 50px;
@@ -151,4 +151,29 @@ ul li a {
 .cta {
   padding: 50px 100px;
   background-color: #3882f6;
+}
+
+.cta-heading {
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.cta-text {
+  color: #e5e7eb;
+}
+
+.cta-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cta-btn {
+  padding: 8px 30px;
+  background-color: #3882f6;
+  border: 2px solid #f9faf8;
+  color: #f9faf8;
+  font-weight: 700;
+  font-size: 18px;
+  border-radius: 10px;
 }
