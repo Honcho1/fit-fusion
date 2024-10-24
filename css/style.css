@@ -118,3 +118,12 @@ ul li a {
   justify-content: center;
   gap: 30px;
 }
+
+.information .info-container .info > img + div {
+  color: #1f2937;
+}
+
+.testimonial {
+  background-color: #e5e7eb;
+  padding: 80px 150px;
+}
