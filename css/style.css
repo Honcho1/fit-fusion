@@ -88,3 +88,20 @@ ul li a {
 .right {
   height: 250px;
 }
+
+.info {
+  width: 300px;
+  height: 300px;
+}
+
+.info-img {
+  width: 80%;
+  height: 80%;
+}
+
+.information-heading {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 80px;
+}
