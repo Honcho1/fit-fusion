@@ -151,6 +151,9 @@ ul li a {
 .cta {
   padding: 50px 100px;
   background-color: #3882f6;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
 .cta-heading {
@@ -161,11 +164,6 @@ ul li a {
 
 .cta-text {
   color: #e5e7eb;
-}
-
-.cta-flex {
-  display: flex;
-  justify-content: space-between;
 }
 
 .cta-btn {
