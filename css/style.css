@@ -125,5 +125,20 @@ ul li a {
 
 .testimonial {
   background-color: #e5e7eb;
-  padding: 80px 150px;
+  padding: 80px 200px;
+}
+
+.testimonial-text {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: 12px;
+}
+
+.testimonial-author {
+  color: #1f2937;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: right;
 }
