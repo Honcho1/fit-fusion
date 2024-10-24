@@ -147,3 +147,8 @@ ul li a {
 .call-to-action {
   padding: 80px 120px;
 }
+
+.cta {
+  padding: 50px 100px;
+  background-color: #3882f6;
+}
