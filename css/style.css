@@ -126,6 +126,7 @@ ul li a {
 .testimonial {
   background-color: #e5e7eb;
   padding: 80px 200px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
 }
 
 .testimonial-text {
