@@ -75,6 +75,7 @@ ul li a {
   padding: 8px 30px;
   border: none;
   border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .left {
@@ -155,6 +156,7 @@ ul li a {
   justify-content: space-between;
   align-items: flex-end;
   border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .cta-heading {
@@ -175,4 +177,16 @@ ul li a {
   font-weight: 700;
   font-size: 18px;
   border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: #1f2937;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.ftr-text {
+  color: #f9faf8;
+  font-size: 18px;
 }
